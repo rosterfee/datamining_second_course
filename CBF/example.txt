@@ -1,0 +1,25 @@
+Spring is, by far, the most popular framework for application development in the Java ecosystem. By a wide margin. The reason is actually quite simple - it does a lot of things right, and it's getting better and better with each release.
+
+There aren't a lot of technologies with the kind of wide reach, stability and maturity of Spring, that still move fast and innovate. That's a really tough balance to hit, and Spring has been hitting it for over a decade.
+
+Today, Spring, along with Boot, is a polished, modern and highly expressive framework, easily passing the Twitter test. That's where you can actually fit useful functionality into a single tweet :)
+
+So, the popularity of the Spring ecosystem is well deserved. If you're working in Java, you're very likely doing work with Spring.
+
+And, while the Spring ecosystem is quite large and moving fast, the core functionality is actually super stable.
+
+Learning Spring means - learning the core, Spring MVC, persistence, the basics of Spring Security. These are the foundations and, like all good foundations, they're stable and well established.
+
+Simply put, there’s never been a better time to learn and practice and improve your Spring foo in a guided way, coding along with me through each video lesson here.
+
+In each module, you'll be building actual code. The video is there to carefully show you how to understand a single aspect of Spring by using it in practice.
+
+Each of the 3 classes below feature a different level of education:
+
+The lessons start with the fundamentals of building a simple but practical application with Spring and quickly guide you through having the tools to navigate your way through the framework well.
+
+My name is Eugen, and I'll be your instructor through the course.
+
+I've worked in the Java ecosystem for well over a decade now, and in that time, I've built and led teams through quite a number of Spring implementations. And of course I've been teaching and writing about Spring throughout all of that time.
+
+The lessons here come out of that experience, with a very simple goal - to get you super comfortable with Spring 5 and with Boot 2. You can't do that by just watching videos - you'll need to code, along with me, each step of the way. The videos and the multiple-choice questions are your reference to come back to whenever you need them.
