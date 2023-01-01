@@ -6,8 +6,11 @@ import numpy as np
 
 
 def get_random_salts(hashes_count: int):
+
+    random_val = random.randint(10, 100)
+
     salts = [
-        hashlib.sha224(bytes(np.random.RandomState(RANDOM_STATE).randint(
+        hashlib.sha224(bytes(np.random.RandomState(random_val).randint(
             0, 999_999))).hexdigest() for i in range(hashes_count)
     ]
     return salts
@@ -20,7 +23,6 @@ def get_index(word: str, salt: str, CBF_SIZE: int):
 infelicity = 0.0001
 
 PATH = 'example.txt'
-RANDOM_STATE = random.randint(10, 100)
 
 with open(PATH, encoding="utf8") as file:
     unique_words = set(file.read().split())

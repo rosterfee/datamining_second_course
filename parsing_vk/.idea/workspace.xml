@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9cdf331e-050d-41ab-a30d-024c47024bc3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../page_rank/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../page_rank/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ru.itis.datamining/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/ru.itis.datamining/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +24,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../moments" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -95,6 +96,7 @@
       <workItem from="1615900757892" duration="8215000" />
       <workItem from="1616059343355" duration="617000" />
       <workItem from="1616086321484" duration="314000" />
+      <workItem from="1619705153770" duration="690000" />
     </task>
     <servers />
   </component>
